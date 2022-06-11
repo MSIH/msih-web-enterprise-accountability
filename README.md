@@ -12,4 +12,6 @@ An application platform to track and report on tasks at all levels
 - Create task from outlook email or event 
 - Create task from Team chat or post
 
-
+# Competitors
+https://www.getflow.com/pricing
+https://www.saasworthy.com/glossary/recurring-task-management
